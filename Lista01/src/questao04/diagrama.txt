@@ -1,0 +1,24 @@
+// pequeno UML, para observar basta acessar:
+// https://www.plantuml.com/plantuml/uml/SoWkIImgAStDuL8ioKZDJLKeBaXCJir9JE9ApaaiBbPmhKZCBSX9LQZcKb08GLLGo-MGcfS2qWe0
+
+
+Coloque o codigo abaixo no campo pedido referente ao site:
+
+@startuml
+title Diagrama de Classes - Pessoa e App4
+
+class Pessoa {
+  - String nome
+  - double peso
+  - double altura
+  - double imc
+  
+  + double calcularImc()
+}
+
+class App4 {
+  + main(args: String[]): void
+}
+
+App4 --> Pessoa : "Manipula"
+@enduml
