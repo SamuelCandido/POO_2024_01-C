@@ -1,0 +1,26 @@
+para gerar o uml acesse: https://www.plantuml.com/plantuml/uml/VP4zJmGX48PxVWNbNdGRootC-L7Rd9snc0DkCmaBcvdX6kD_5z3TG4okVNdUPmOuiW19Mhmo7fZrqxe-w2-bzTq260QWcITz4i8mVtmU9dsDQDMt-gDVOX1uXc2046fj36bn5BTEIGGbUQ0sOl0sCpQcitTbM2SQ3YMQdRnLrt1egYL-_nN-oq_5cjF6oxkatskxIKLsORzf1stsRlC6i6wDZ98bL_2H6k8SetSGgWNCRK080byS8GsclCYhOy4Gf_wXx_KDHJv22_sGNCZE2ngebzZvffc_j7xzE3xsmzJH1PiM_mC0
+
+@startuml
+class App2 {
+  +main(args: String[]): void
+}
+
+class ContaBancaria {
+  -numero: String
+  -titular: String
+  -saldo: double
+  +ContaBancaria()
+  +getNumero(): String
+  +getTitular(): String
+  +getSaldo(): double
+  +setNumero(numero: String): void
+  +setTitular(titular: String): void
+  +setSaldo(saldo: double): void
+  +depositar(valor: double): boolean
+  +sacar(valor: double): boolean
+  +transferir(contaDestino: ContaBancaria, valor: double): boolean
+  +valida(valor: double, verificaSaldo: boolean): boolean
+}
+
+App2 --> ContaBancaria
+@enduml
