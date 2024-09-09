@@ -685,7 +685,8 @@ public class Calculadora extends javax.swing.JFrame {
     }//GEN-LAST:event_btPorcentagemActionPerformed
 
     private void btDecimalActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btDecimalActionPerformed
-        // TODO add your handling code here:
+        double numeroAtual = Double.parseDouble(lbVisor.getText());
+        lbVisor.setText(String.valueOf(numeroAtual));
     }//GEN-LAST:event_btDecimalActionPerformed
 
     private void btZeroActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btZeroActionPerformed
