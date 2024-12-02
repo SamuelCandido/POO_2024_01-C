@@ -1,0 +1,52 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/sjcandido/Downloads/Lista04/Lista04/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/sjcandido/Downloads/Lista04/Lista04/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Lista04 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Lista04 1.0-SNAPSHOT API'
+questao01
+questao02
+questao03
+questao04
+C:\Users\sjcandido\Downloads\Lista04\Lista04\src\main\java = 1724708723012
+C:\Users\sjcandido\Downloads\Lista04\Lista04\target\site\apidocs\allclasses-index.html = 1724708944127
+C:\Users\sjcandido\Downloads\Lista04\Lista04\target\site\apidocs\allpackages-index.html = 1724708944132
+C:\Users\sjcandido\Downloads\Lista04\Lista04\target\site\apidocs\copy.svg = 1724708944177
+C:\Users\sjcandido\Downloads\Lista04\Lista04\target\site\apidocs\element-list = 1724708943969
+C:\Users\sjcandido\Downloads\Lista04\Lista04\target\site\apidocs\help-doc.html = 1724708944169
+C:\Users\sjcandido\Downloads\Lista04\Lista04\target\site\apidocs\index-all.html = 1724708944156
+C:\Users\sjcandido\Downloads\Lista04\Lista04\target\site\apidocs\index.html = 1724708944111
+C:\Users\sjcandido\Downloads\Lista04\Lista04\target\site\apidocs\link.svg = 1724708944180
+C:\Users\sjcandido\Downloads\Lista04\Lista04\target\site\apidocs\member-search-index.js = 1724708944139
+C:\Users\sjcandido\Downloads\Lista04\Lista04\target\site\apidocs\module-search-index.js = 1724708944135
+C:\Users\sjcandido\Downloads\Lista04\Lista04\target\site\apidocs\overview-summary.html = 1724708944163
+C:\Users\sjcandido\Downloads\Lista04\Lista04\target\site\apidocs\overview-tree.html = 1724708944105
+C:\Users\sjcandido\Downloads\Lista04\Lista04\target\site\apidocs\package-search-index.js = 1724708944136
+C:\Users\sjcandido\Downloads\Lista04\Lista04\target\site\apidocs\script.js = 1724708944175
+C:\Users\sjcandido\Downloads\Lista04\Lista04\target\site\apidocs\search-page.js = 1724708944185
+C:\Users\sjcandido\Downloads\Lista04\Lista04\target\site\apidocs\search.html = 1724708944159
+C:\Users\sjcandido\Downloads\Lista04\Lista04\target\site\apidocs\search.js = 1724708944183
+C:\Users\sjcandido\Downloads\Lista04\Lista04\target\site\apidocs\serialized-form.html = 1724708944059
+C:\Users\sjcandido\Downloads\Lista04\Lista04\target\site\apidocs\stylesheet.css = 1724708944173
+C:\Users\sjcandido\Downloads\Lista04\Lista04\target\site\apidocs\tag-search-index.js = 1724708944141
+C:\Users\sjcandido\Downloads\Lista04\Lista04\target\site\apidocs\type-search-index.js = 1724708944138
